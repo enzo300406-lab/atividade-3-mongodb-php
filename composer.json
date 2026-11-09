@@ -1,0 +1,7 @@
+{
+  "name": "enzo/atividade-3-mongodb-php",
+  "description": "Sistema acadêmico simples em PHP e MongoDB para a Atividade 3",
+  "require": {
+    "mongodb/mongodb": "^1.20"
+  }
+}
